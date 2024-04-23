@@ -240,4 +240,10 @@ h3 {
     .kartu-partner {
         width: 50%;
     }
+    #text {
+        font-size: 18px;
+        color: #9e2222; 
+      }
+      
+      
 }
